@@ -4,6 +4,7 @@ package git04;
     public void sayHello() {
         System.out.println("Hello, my name is Rachel");
         System.out.println("Hello Rachel, my name is Armando");
+        System.out.println("Hello Rachel, my name is Abby.");
 
     }
         public static void main(String[] args) {
